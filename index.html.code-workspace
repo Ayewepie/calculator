@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"path": "../HTML"
+	},
+	{
+		"path": "../JS"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../experimentalcode"
+	},
+	{
+		"path": "../Log In"
+	},
+	{
+		"path": "../C language"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Log In"
+  }
+}
